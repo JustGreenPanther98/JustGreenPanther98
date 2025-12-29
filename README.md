@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused Java developer with hands-on experience in Core Java, Hibernate ORM, and MySQL.<br>I build clean, layered applications with manual transaction handling and proper data access control.<br>Currently strengthening fundamentals.
+Backend-focused programmer worked on Core Java, Hibernate ORM, HTML, CSS and MySQL.<br>I build clean, layered applications with manual transaction handling and proper data access control.<br>Currently strengthening fundamentals.
 
 
 ## 🌐 Socials:
